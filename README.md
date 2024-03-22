@@ -1,4 +1,4 @@
-[Test](https://github.com/ChipDipDAC/ChipDipDAC.github.io/tree/main/reflex1)
+[Reflex 2$](https://github.com/ChipDipDAC/ChipDipDAC.github.io/tree/main/reflex1)
 
 ![alt text](https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/reflex1/Reflex_2_0_pins_DSD800.jpg?raw=true)
 

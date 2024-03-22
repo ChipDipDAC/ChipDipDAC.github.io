@@ -1,6 +1,6 @@
 [Test](https://github.com/ChipDipDAC/ChipDipDAC.github.io/tree/main/reflex1)
 
-![alt text](https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/reflex1/Reflex_2_0_pins_DSD800.jpg)
+![alt text](https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/reflex1/Reflex_2_0_pins_DSD800.jpg {raw=true})
 
 <p><a class="galery" href="https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/reflex1/DSDlogo.png"><img alt="Gen" src="https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/reflex1/DSDlogo.png?raw=true" /></a></p>
 https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/reflex1/Reflex_2_0_pins_DSD800.jpg

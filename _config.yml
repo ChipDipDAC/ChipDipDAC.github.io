@@ -1,6 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-<head><link rel="icon" href="image/favicon.ico" type="image/x-icon?" /></head>
-<head><link rel="shortcut icon" type="image/" href="favicon.png?"></head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

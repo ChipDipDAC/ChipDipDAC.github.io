@@ -1,7 +1,5 @@
-<head><link rel="icon" href="image/favicon.ico" type="image/x-icon" /></head>
-<head>
-    <link rel="shortcut icon" type="image/" href="favicon.png?">
-  </head>
+<head><link rel="icon" href="image/favicon.ico" type="image/x-icon?" /></head>
+<head><link rel="shortcut icon" type="image/" href="favicon.png?"></head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
 

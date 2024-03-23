@@ -1,6 +1,6 @@
 <head><link rel="icon" href="image/favicon.ico" type="image/x-icon" /></head>
 <head>
-    <link rel="shortcut icon" type="image" href="favicon.png">
+    <link rel="shortcut icon" type="image" href="favicon.png?">
   </head>
 on sales: chipdipdac@gmail.com
 

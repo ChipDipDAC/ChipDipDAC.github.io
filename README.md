@@ -1,6 +1,7 @@
 <h2>How to order?</h2>
 chipdipdac@gmail.com
-<h2>List of products. (Click links for user's maunals)</h2>
+<h2>List of products.</h2> 
+<h3>(Click links for user's maunals)</h3>
 
 [Reflex 2.0 Pro USB Hi-Res transport PCM up to 32bit/768kHz, DSD512, SPDIF Out  384kHz, Surround 4xI2S, TDM $49.00](https://github.com/ChipDipDAC/ChipDipDAC.github.io/tree/main/Reflex%202.0%20Pro)
 ![Reflex 2.0 Pro](https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/Reflex%202.0%20Pro/Reflex_2_0_Pro_pins.jpg?raw=true)

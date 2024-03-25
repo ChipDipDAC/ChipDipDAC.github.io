@@ -2,7 +2,11 @@
 chipdipdac@gmail.com
 <h2>List of products.</h2> 
 <h3>Click links for user's maunals.</h3>
-
+| Таблицы       | Это                | Круто |
+| ------------- |:------------------:| -----:|
+| столбец 3     | выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
 [Reflex 1.0, USB Hi-Res transport PCM up to 16bit/192kHz, SPDIF Out, Surround 2xI2S, up to 7.1 in TDM8 mode $22.00](https://github.com/ChipDipDAC/ChipDipDAC.github.io/tree/main/Reflex%201.0)
 ![Reflex 1](https://github.com/ChipDipDAC/ChipDipDAC.github.io/blob/main/Reflex%201.0/Reflex_1pins.jpg?raw=true)
 
